@@ -25,7 +25,15 @@ Through academic and personal projects, I've gained hands-on experience with Lin
 ## 🛠️ Technologies & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,java,spring,react,postgres,mysql,mongodb&amp;theme=dark&amp;perline=9" alt="Linux, AWS, Docker, Java, Spring Boot, React, PostgreSQL, MySQL and MongoDB">
+  <a href="https://www.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" title="Linux" width="48" height="48"></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="AWS" title="AWS" width="48" height="48"></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" alt="Docker" title="Docker" width="48" height="48"></a>
+  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" alt="Java" title="Java" width="48" height="48"></a>
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" alt="Spring Boot" title="Spring Boot" width="48" height="48"></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" title="React" width="48" height="48"></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48"></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" title="MySQL" width="48" height="48"></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" alt="MongoDB" title="MongoDB" width="48" height="48"></a>
 </p>
 
 ## 🎓 Certifications & training
@@ -33,8 +41,8 @@ Through academic and personal projects, I've gained hands-on experience with Lin
 ### Earned certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge" alt="AWS Certified Cloud Practitioner">
-  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=for-the-badge" alt="AWS Certified AI Practitioner">
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" title="AWS Certified Cloud Practitioner"><img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/clf-badge-resized.af6428258905cc1838aa186fb6c543c3a026694c.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="150"></a>
+  <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" title="AWS Certified AI Practitioner"><img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/aif-badge-resized.45dffce6ab9514ec26d8d6b91511e5953a3594b8.png" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" width="150"></a>
 </p>
 
 ### Completed training
