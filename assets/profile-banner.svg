@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">André Quispe — Linux, Cloud and DevOps</title>
+<desc id="desc">Software Engineering student at UTP, building toward DevSecOps.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1526"/><stop offset="1" stop-color="#122b3c"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#51d6c5" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect x="44" y="45" width="5" height="210" rx="2.5" fill="#51d6c5"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="75" y="78" fill="#51d6c5" font-size="15" font-weight="700" letter-spacing="3">LEARN · BUILD · AUTOMATE · SECURE</text>
+<text x="72" y="141" fill="#f1f5f9" font-size="49" font-weight="700">ANDRÉ QUISPE</text>
+<text x="75" y="184" fill="#cfdeeb" font-size="25">Linux Systems · Cloud Infrastructure · DevOps</text>
+<text x="75" y="228" fill="#90aabd" font-size="18">Software Engineering @ UTP · Building toward DevSecOps</text>
+</g>
+<g transform="translate(850 55)">
+<rect width="290" height="190" rx="12" fill="#0a1220" stroke="#365568"/>
+<path d="M0 36H290" stroke="#365568"/><circle cx="21" cy="18" r="4" fill="#ffb454"/><circle cx="37" cy="18" r="4" fill="#51d6c5"/><circle cx="53" cy="18" r="4" fill="#6896b4"/>
+<g font-family="Consolas,monospace" font-size="18"><text x="22" y="76" fill="#51d6c5">$ whoami</text><text x="22" y="110" fill="#e0eaf3">Andre1825</text><text x="22" y="147" fill="#90aabd">linux / cloud / devops</text></g><rect x="22" y="164" width="9" height="13" fill="#51d6c5"/>
+</g>
+</svg>
