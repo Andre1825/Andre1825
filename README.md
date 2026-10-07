@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="André Quispe — Linux Systems, Cloud Infrastructure and DevOps" width="100%">
+  <img src="./assets/profile-banner-animated.svg" alt="André Quispe — Linux Systems, Cloud Infrastructure and DevOps" width="100%">
 </p>
 
 <p align="center">
