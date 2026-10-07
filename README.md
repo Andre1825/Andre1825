@@ -24,37 +24,8 @@ Through academic and personal projects, I've gained hands-on experience with Lin
 
 ## 🛠️ Technologies & tools
 
-**Systems, cloud & containers**
-
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Networking-0F766E?style=for-the-badge" alt="Networking">
-</p>
-
-**Application development**
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React in academic projects">
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-**Learning & certification preparation**
-
-<p>
-  <img src="https://img.shields.io/badge/RHCSA-In_preparation-9F1D20?style=flat-square" alt="RHCSA: in preparation">
-  <img src="https://img.shields.io/badge/AWS_SAA-In_preparation-9A6700?style=flat-square" alt="AWS Solutions Architect Associate: in preparation">
-  <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes: learning">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,java,spring,react,postgres,mysql,mongodb&amp;theme=dark&amp;perline=9" alt="Linux, AWS, Docker, Java, Spring Boot, React, PostgreSQL, MySQL and MongoDB">
 </p>
 
 ## 🎓 Certifications & training
