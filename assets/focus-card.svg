@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="96" viewBox="0 0 384 96" role="img" aria-labelledby="title">
+<title id="title">Focus — Linux, Cloud and DevOps</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101a2b"/><stop offset="1" stop-color="#0a1421"/></linearGradient>
+<linearGradient id="stroke"><stop stop-color="#8b9cff" stop-opacity=".65"/><stop offset=".55" stop-color="#40617b" stop-opacity=".35"/><stop offset="1" stop-color="#9279dd" stop-opacity=".55"/></linearGradient>
+<linearGradient id="shine"><stop stop-color="#8b9cff" stop-opacity="0"/><stop offset=".5" stop-color="#8b9cff" stop-opacity=".08"/><stop offset="1" stop-color="#8b9cff" stop-opacity="0"/></linearGradient>
+<clipPath id="clip"><rect x="1" y="1" width="382" height="94" rx="15"/></clipPath>
+</defs>
+<style>.shine{animation:shine 10s linear infinite}.pulse{animation:pulse 5s ease-in-out infinite}@keyframes shine{from{transform:translateX(-140px)}to{transform:translateX(524px)}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.shine,.pulse{animation:none}.shine{opacity:0}}</style>
+<g clip-path="url(#clip)">
+<rect width="384" height="96" fill="url(#bg)"/>
+<path d="M310 1L264 95M339 1L293 95" fill="none" stroke="#8b9cff" stroke-opacity=".04"/>
+<rect class="shine" width="140" height="96" fill="url(#shine)"/>
+<g transform="translate(21 25)" fill="none" stroke="#8baafa" stroke-width="1.8"><rect width="46" height="46" rx="12" fill="#18213e" stroke="#354875"/><path d="M11 17L18 23L11 29M23 30H34" stroke="#a6bffd" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="84" y="36" fill="#abb7ff" font-size="12" font-weight="600" letter-spacing="2">CURRENT FOCUS</text><text x="84" y="62" fill="#e9f4ff" font-size="22" font-weight="600">Linux · Cloud · DevOps</text></g>
+</g>
+<rect x=".8" y=".8" width="382.4" height="94.4" rx="15" fill="none" stroke="url(#stroke)" stroke-width="1.6"/>
+<path class="pulse" d="M20 95H72" stroke="#8b9cff" stroke-width="2"/>
+</svg>
