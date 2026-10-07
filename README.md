@@ -41,8 +41,8 @@ Through academic and personal projects, I've gained hands-on experience with Lin
 ### Earned certifications
 
 <p>
-  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" title="AWS Certified Cloud Practitioner"><img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/clf-badge-resized.af6428258905cc1838aa186fb6c543c3a026694c.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="150"></a>
-  <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" title="AWS Certified AI Practitioner"><img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/aif-badge-resized.45dffce6ab9514ec26d8d6b91511e5953a3594b8.png" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" width="150"></a>
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="150"></a>
+  <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner" width="150"></a>
 </p>
 
 ### Completed training
