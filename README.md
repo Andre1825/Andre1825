@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I’m **André Quispe**, a seventh-semester Software Engineering student at Universidad Tecnológica del Perú (UTP) and an **AWS Certified Solutions Architect – Associate**.
+I’m **André Quispe**, a seventh-semester Software Engineering student at Universidad Tecnológica del Perú (UTP), specializing in DevOps, Cloud Infrastracture and Linux systems administration.
 
 I’m building toward **DevSecOps** through hands-on work in Linux systems administration, cloud infrastructure and automation. In my labs, I administer and troubleshoot RHEL on VMware, work with Docker networking, and practice CI with GitHub Actions. My application projects span Java, Spring Boot, REST APIs and relational databases.
 
