@@ -10,9 +10,9 @@
 
 ## 👋 About me
 
-I’m **André Quispe**, a seventh-semester Software Engineering student at Universidad Tecnológica del Perú (UTP), specializing in DevOps, Cloud Infrastracture and Linux systems administration.
+I’m **André Quispe**, a eighth-semester Software Engineering student at Universidad Tecnológica del Perú (UTP), specializing in Cloud Infrastracture, DevOps and Linux systems administration. I'm interested in technical pre-sales because it involves understanding the customer's needs, designing a solution, and clearly explaining how it would work and how much it would cost.
 
-I’m building toward **DevSecOps** through hands-on work in Linux systems administration, cloud infrastructure and automation. In my labs, I administer and troubleshoot RHEL on VMware, work with Docker networking, and practice CI with GitHub Actions. My application projects span Java, Spring Boot, REST APIs and relational databases.
+I’m building toward **DevSecOps** through hands-on work in cloud infrastructure, Linux Systems Administration and automation. In my labs, I administer and troubleshoot RHEL on VMware, work with Docker networking, and practice CI with GitHub Actions. My application projects span Java, Spring Boot, REST APIs and relational databases.
 
 ## 🎓 Certifications & training
 
@@ -26,8 +26,8 @@ I’m building toward **DevSecOps** through hands-on work in Linux systems admin
 
 ### In preparation
 
+- AWS Certified DevOps Engineer - Professional
 - Red Hat Certified System Administrator (RHCSA, EX200)
-- Certified Kubernetes Administrator (CKA)
 
 ### Completed training
 
@@ -76,7 +76,7 @@ I’m building toward **DevSecOps** through hands-on work in Linux systems admin
 | --- | --- |
 | **Linux/RHEL Administration Lab** | RHCSA practice in VMware covering users and permissions, systemd, networking with nmcli and firewalld, log analysis with journalctl, and backup verification with checksums. |
 | [**Docker Networking Lab**](https://github.com/Andre1825/docker-networking-lab) | Connected Flask, MySQL and phpMyAdmin on a Docker Compose bridge network. Configured container DNS, a multi-stage build, health checks and persistent volumes. |
-| [**TechStore**](https://github.com/Andre1825/TechStore) | Contributed to a team inventory app built with React, Java 21, Spring Boot and PostgreSQL. The project includes transactional stock tracking, permission-based access and an optional AWS deployment with EC2, private RDS, S3 and SNS alerts. |
+| [**TechStore**](https://github.com/Andre1825/TechStore) | Contributed to a team inventory app built with React, Java 21, Spring Boot and PostgreSQL. The project includes transactional stock tracking, permission-based access and an AWS deployment with EC2, private RDS, S3 and SNS alerts. |
 | **KickStamp** ([frontend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Frontend) · [backend](https://github.com/ariancerna/HerramientasDesarrollo_Grupo4_Backend)) | Built filtered reports, safe CSV exports and responsive, accessible interfaces for a team attendance app. Implemented role-scoped dashboard APIs, documented them with OpenAPI, and added 17 automated tests with `node:test`. |
 | [**SmartStock360**](https://github.com/Andre1825/SmartStock360) | Connected React and Spring Boot to a FastAPI service that uses a Random Forest model to forecast demand and recommend stock replenishment. |
 
