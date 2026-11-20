@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Andre1825?tab=repositories" title="Explore my projects"><img src="./assets/projects-card.svg" alt="Explore my projects" title="Explore my projects" width="25%"></a>
-  <a href="https://www.utp.edu.pe/" title="Universidad Tecnológica del Perú — Software Engineering"><img src="./assets/utp-card.svg" alt="UTP — Software Engineering student, 7th semester" title="Universidad Tecnológica del Perú — Software Engineering" width="40%"></a>
+  <a href="https://www.utp.edu.pe/" title="Universidad Tecnológica del Perú — Software Engineering"><img src="./assets/utp-card.svg" alt="UTP — Software Engineering student, 8th semester" title="Universidad Tecnológica del Perú — Software Engineering" width="40%"></a>
   <a href="https://github.com/Andre1825#%EF%B8%8F-technologies--tools" title="Linux, Cloud and DevOps"><img src="./assets/focus-card.svg" alt="Focus: Linux, Cloud and DevOps" title="Linux, Cloud and DevOps" width="32%"></a>
 </p>
 
