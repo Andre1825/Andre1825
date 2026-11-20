@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I’m **André Quispe**, a eighth-semester Software Engineering student at Universidad Tecnológica del Perú (UTP), specializing in Cloud Infrastracture, DevOps and Linux systems administration. I'm interested in technical pre-sales because it involves understanding the customer's needs, designing a solution, and clearly explaining how it would work and how much it would cost.
+I’m **André Quispe**, a eighth-semester Software Engineering student at Universidad Tecnológica del Perú (UTP), specializing in Cloud Infrastructure, DevOps and Linux systems administration. I'm interested in technical pre-sales because it involves understanding the customer's needs, designing a solution, and clearly explaining how it would work and how much it would cost.
 
 I’m building toward **DevSecOps** through hands-on work in cloud infrastructure, Linux Systems Administration and automation. In my labs, I administer and troubleshoot RHEL on VMware, work with Docker networking, and practice CI with GitHub Actions. My application projects span Java, Spring Boot, REST APIs and relational databases.
 
