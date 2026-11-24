@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I’m **André Quispe**, a eighth-semester Software Engineering student at Universidad Tecnológica del Perú (UTP), specializing in Cloud Infrastructure, DevOps and Linux systems administration. I'm interested in technical pre-sales because it involves understanding the customer's needs, designing a solution, and clearly explaining how it would work and how much it would cost.
+I’m **André Quispe**, an eighth-semester Software Engineering student at Universidad Tecnológica del Perú (UTP), specializing in Cloud Infrastructure, DevOps and Linux systems administration. I'm interested in technical pre-sales because it involves understanding the customer's needs, designing a solution, and clearly explaining how it would work and how much it would cost.
 
 I’m building toward **DevSecOps** through hands-on work in cloud infrastructure, Linux Systems Administration and automation. In my labs, I administer and troubleshoot RHEL on VMware, work with Docker networking, and practice CI with GitHub Actions. My application projects span Java, Spring Boot, REST APIs and relational databases.
 
@@ -44,6 +44,8 @@ I’m building toward **DevSecOps** through hands-on work in cloud infrastructur
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" alt="Bash" title="Bash" width="42" height="42"></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="AWS" title="AWS" width="42" height="42"></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" alt="Docker" title="Docker" width="42" height="42"></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&amp;theme=dark" alt="Kubernetes" title="Kubernetes" width="42" height="42"></a>
+  <a href="https://developer.hashicorp.com/terraform"><img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" alt="Terraform" title="Terraform" width="42" height="42"></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" title="Git" width="42" height="42"></a>
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" alt="GitHub Actions" title="GitHub Actions" width="42" height="42"></a>
 </p>
@@ -52,16 +54,20 @@ I’m building toward **DevSecOps** through hands-on work in cloud infrastructur
 - **AWS** — EC2, VPC, IAM, S3, RDS, SNS and CloudWatch.
 - **Containers & CI** — Docker, Docker Compose, Git and GitHub Actions.
 - **Networking & virtualization** — TCP/IP, subnetting, DNS, DHCP, routing and switching, nmcli, firewalld and VMware.
-- **Fundamentals** — Kubernetes and Terraform.
+- **Currently practicing** — Kubernetes (K8s) and Terraform.
 
 ### Development, data & collaboration
 
 <p>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" alt="Java" title="Java" width="42" height="42"></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" alt="Spring Boot" title="Spring Boot" width="42" height="42"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" alt="TypeScript" title="TypeScript" width="42" height="42"></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&amp;theme=dark" alt="Express" title="Express" width="42" height="42"></a>
+  <a href="https://swagger.io/"><img src="https://api.iconify.design/devicon/swagger.svg" alt="Swagger" title="Swagger" width="42" height="42"></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" title="React" width="42" height="42"></a>
   <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" alt="Vite" title="Vite" width="42" height="42"></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" title="PostgreSQL" width="42" height="42"></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" alt="Supabase" title="Supabase" width="42" height="42"></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" title="MySQL" width="42" height="42"></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" alt="MongoDB" title="MongoDB" width="42" height="42"></a>
 </p>
